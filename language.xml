@@ -1,0 +1,94 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<country value="english,chinese"/>
+	
+	<context id ="hell">
+		<item country ="english" value ="hello world"/>
+		<item country ="chinese" value ="你好 美女"/>
+	</context>
+	
+	<context id ="msg_box_yes">
+		<item country ="english" value ="Yes"/>
+		<item country ="chinese" value ="是"/>
+	</context>
+	
+	<context id ="msg_box_no">
+		<item country ="english" value ="No"/>
+		<item country ="chinese" value ="否"/>
+	</context>
+	
+	<context id ="msg_box_cancle">
+		<item country ="english" value ="Cancel"/>
+		<item country ="chinese" value ="取消"/>
+	</context>
+	
+	<context id ="msg_box_time">
+		<item country ="english" value ="left time {0}"/>
+		<item country ="chinese" value ="{0}后关闭"/>
+	</context>
+	
+	<context id ="action_move">
+		<item country ="chinese" value ="移动"/>
+	</context>
+	
+	<context id ="action_skill">
+		<item country ="chinese" value ="技能"/>
+	</context>
+	
+	<context id ="action_ai">
+		<item country ="chinese" value ="自动"/>
+	</context>
+	
+	<context id ="action_info">
+		<item country ="chinese" value ="状态"/>
+	</context>
+	
+	<context id ="action_next">
+		<item country ="chinese" value ="结束"/>
+	</context>
+	
+	<context id ="skill_3">
+		<item country ="chinese" value ="流氓拳"/>
+	</context>
+	
+	<context id ="skill_12">
+		<item country ="chinese" value ="红丝腿"/>
+	</context>
+	
+	<context id ="msg_login_suc">
+		<item country ="chinese" value ="登录成功"/>
+	</context>
+	
+	<context id ="msg_login_again">
+		<item country ="chinese" value ="玩家已登录"/>
+	</context>
+	
+	<context id ="msg_login_fail">
+		<item country ="chinese" value ="玩家登录失败"/>
+	</context>
+	
+	<context id ="msg_get_roleid_err">
+		<item country ="chinese" value ="获取玩家ID出错"/>
+	</context>
+	
+	<context id ="msg_register_again">
+		<item country ="chinese" value ="玩家已注册"/>
+	</context>
+	
+	<context id ="msg_sys_err">
+		<item country ="chinese" value ="服务器异常"/>
+	</context>
+	
+	<context id ="msg_logout">
+		<item country ="chinese" value ="退出原因{0}-{1}"/>
+	</context>
+	
+	<context id ="msg_win_team">
+		<item country ="chinese" value ="获胜队伍 {0}"/>
+	</context>
+	
+	<context id ="msg_team_result">
+		<item country ="chinese" value ="获胜队伍 {0}-{1}"/>
+	</context>
+	
+</root>
